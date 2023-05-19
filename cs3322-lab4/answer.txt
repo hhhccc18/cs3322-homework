@@ -1,0 +1,7 @@
+- I followed `README.md` to make design decisions and implemented the most naive version.
+
+- I didn't change any API.
+
+- I finished all the parts of the lab
+
+- I spent about one and a half days writing the lab. The whole optimizer structure is kind of hard to understand.
